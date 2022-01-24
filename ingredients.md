@@ -4,5 +4,9 @@
 * 2 tbsp salt
 =======
 * 2 tsp salt
+<<<<<<< HEAD
 * 2 tsp coriander
+>>>>>>> experiment
+=======
+* 3 tsp coriander
 >>>>>>> experiment
