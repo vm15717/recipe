@@ -1,7 +1,7 @@
 * 2 avocados
 * 1 lime
 <<<<<<< HEAD
-* 2 tbsp salt
+* 1 tbsp salt
 =======
 * 2 tsp salt
 <<<<<<< HEAD
