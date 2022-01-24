@@ -1,4 +1,4 @@
 * 2 avacados
 * 1 lime
 * 2 tsp salt
-* 2 tsp coriander
+* 3 tsp coriander
